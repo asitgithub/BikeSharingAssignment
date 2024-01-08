@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. This assignment is submitted by Satya Prakash.
+> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. This assignment is submitted by Asit Kumar Singh
 
 
 ## Table of Contents
